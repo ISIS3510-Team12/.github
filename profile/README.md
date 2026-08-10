@@ -30,4 +30,4 @@ Our two subgroups will build mobile applications using Kotlin and Flutter.
 | :--- | :--- | :---: | :---: |
 | 📚 **Wiki Repository** | Course activities and documentation. | [View repository](https://github.com/ISIS3510-Team12/Wiki) | 🟢 Active |
 | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="20" /> **Kotlin Repository** | Native Android app built with Kotlin. | [View repository](https://github.com/__________) | ⚪ Planned |
-| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Cross-platform app built with Flutter. | [View repository](https://github.com/__________) | ⚪ Planned |
+| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Native Android app built with Flutter. | [View repository](https://github.com/__________) | ⚪ Planned |
