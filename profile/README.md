@@ -17,8 +17,6 @@
 
 ## 👥 Meet the Team
 
-<!-- Replace the blank spaces below with each member's information. -->
-
 | Member | Name | Subgroup | GitHub |
 | :---: | :--- | :---: | :---: |
 | 🧑‍💻 | Diego Alejandro Munevar Perez | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@DiegoMunevar2007](https://github.com/) |
