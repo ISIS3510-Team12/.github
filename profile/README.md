@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Replace this banner placeholder with: <img src="YOUR_BANNER_URL" alt="Team banner" width="100%" /> -->
-
-### BANNER
-
 <br>
 
-# 📱 Welcome to Our Mobile Development Team
+# Welcome to Our Mobile Development Team
 
 ![Course](https://img.shields.io/badge/Course-ISIS3510-6C63FF?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Mobile%20Apps-00BFA6?style=for-the-badge)
@@ -17,14 +13,14 @@
 
 ## 👥 Meet the Team
 
-| Member | Name | Subgroup | GitHub |
-| :---: | :--- | :---: | :---: |
-| 🧑‍💻 | Diego Alejandro Munevar Perez | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@DiegoMunevar2007](https://github.com/) |
-| 🧑‍💻 | Shaiel Mateo Jimenez Posada | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@5haiel](https://github.com/) |
-| 🧑‍💻 | Manuela Lovera Lozano | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@mloveral](https://github.com/) |
-| 🧑‍💻 | Cristian Felipe Ochoa Osorio | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@callmecris](https://github.com/) |
-| 🧑‍💻 | Valeria Caro Ramirez | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@valiwisdev](https://github.com/) |
-| 🧑‍💻 | Victoria Sofia Gonzalez Chacin | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@VictoriaGonzalezCh](https://github.com/) |
+| Name | Subgroup | GitHub |
+| :--- | :---: | :---: |
+| Diego Alejandro Munevar Perez | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@DiegoMunevar2007](https://github.com/) |
+| Shaiel Mateo Jimenez Posada | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@5haiel](https://github.com/) |
+| Manuela Lovera Lozano | <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" title="Kotlin" width="25" /> | [@mloveral](https://github.com/) |
+| Cristian Felipe Ochoa Osorio | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@callmecris](https://github.com/) |
+| Valeria Caro Ramirez | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@valiwisdev](https://github.com/) |
+| Victoria Sofia Gonzalez Chacin | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@VictoriaGonzalezCh](https://github.com/) |
 
 ## 📂 Our Projects
 
