@@ -1,3 +1,4 @@
+<img width="1280" height="600" alt="TEAM 12 Banner" src="https://github.com/user-attachments/assets/bcc6d1e3-778f-4003-b6b6-9794535b1dda" />
 <div align="center">
 
 <br>
