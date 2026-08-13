@@ -7,12 +7,8 @@
 
 # Welcome to Our Mobile Development Team
 
-![Course](https://img.shields.io/badge/Course-ISIS3510-6C63FF?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Mobile%20Apps-00BFA6?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team-12-FF6B6B?style=for-the-badge)
 </div>
 
----
 
 ## 👥 Meet the Team
 
