@@ -21,12 +21,10 @@
 | Valeria Caro Ramirez | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@valiwisdev](https://github.com/) |
 | Victoria Sofia Gonzalez Chacin | <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" title="Flutter" width="25" /> | [@VictoriaGonzalezCh](https://github.com/) |
 
-## 📂 Our Projects
+## 📂 Our Repositories
 
-Our two subgroups will build mobile applications using Kotlin and Flutter.
-
-| Project | Description | GitHub Repository | Status |
-| :--- | :--- | :---: | :---: |
-| 📚 **Wiki Repository** | Course activities and documentation. | [View repository](https://github.com/ISIS3510-Team12/Wiki) | 🟢 Active |
-| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="20" /> **Kotlin Repository** | Native Android app built with Kotlin. | [View repository](https://github.com/__________) | ⚪ Planned |
-| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Native Android app built with Flutter. | [View repository](https://github.com/__________) | ⚪ Planned |
+| Project | Description | GitHub Repository |
+| :--- | :--- | :---: | 
+| 📚 **Wiki Repository** | Course activities and documentation. | [View repository](https://github.com/ISIS3510-Team12/Wiki) | 
+| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="20" /> **Kotlin Repository** | Native Android app built with Kotlin. | [View repository](https://github.com/__________) | 
+| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Native Android app built with Flutter. | [View repository](https://github.com/__________) |
