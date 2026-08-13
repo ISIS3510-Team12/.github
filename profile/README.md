@@ -1,5 +1,7 @@
-<img width="1280" height="600" alt="TEAM 12 Banner" src="https://github.com/user-attachments/assets/bcc6d1e3-778f-4003-b6b6-9794535b1dda" />
 <div align="center">
+
+<img width="1280" height="600" alt="TEAM 12" src="https://github.com/user-attachments/assets/5d3eea40-ca78-44d9-ba1d-4d5ea333d651" />
+
 
 <br>
 
