@@ -26,5 +26,5 @@
 | Project | Description | GitHub Repository |
 | :--- | :--- | :---: | 
 | 📚 **Wiki Repository** | Course activities and documentation. | [View repository](https://github.com/ISIS3510-Team12/Wiki) | 
-| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="20" /> **Kotlin Repository** | Native Android app built with Kotlin. | [View repository](https://github.com/__________) | 
-| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Native Android app built with Flutter. | [View repository](https://github.com/__________) |
+| <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="20" /> **Kotlin Repository** | Native Android app built with Kotlin. | [View repository](https://github.com/ISIS3510-Team12/Kotlin) | 
+| <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" width="20" /> **Flutter Repository** | Native Android app built with Flutter. | [View repository](https://github.com/ISIS3510-Team12/Flutter) |
